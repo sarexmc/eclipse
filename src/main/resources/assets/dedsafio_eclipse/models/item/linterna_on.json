@@ -1,0 +1,4 @@
+{
+  "parent": "item/handheld",
+  "textures": { "layer0": "dedsafio_eclipse:item/linterna_on" }
+}
